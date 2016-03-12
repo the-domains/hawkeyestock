@@ -1,19 +1,4 @@
-name: HawkeyeStock
-favicon: null
-layout_spectrum: 0.11196696967817843
-typography_spectrum: 0.9229462910443544
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#A690A4'
@@ -23,6 +8,11 @@ color:
     - '#E376B7'
   brandStrength: 0.9707617629319429
   lightness: 0.7520007542334497
-  saturation: 0.5465942469891161
   rhythmicContrast: 0.9589014574885368
+  saturation: 0.5465942469891161
+cta: {}
+layout_spectrum: 1
+name: HawkeyeStock
+opengraph: {}
 purpose: []
+typography_spectrum: 0.9229462910443544
